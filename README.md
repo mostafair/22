@@ -1,4 +1,4 @@
-
+#دستورات نصب
 cd MRRATHERO
 chmod +x Tabchi
 دستور نصب تبچی :
